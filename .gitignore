@@ -237,6 +237,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# SSH Keys
+id_ed25519
+id_ed25519.pub
+.ssh/
+
 # Build folder
 
 */build/*
